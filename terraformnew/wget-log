@@ -1,0 +1,4 @@
+--2022-03-03 19:48:27--  https://releases.hashicorp.com/terraform/0.12.31/terraform_0.12.31_linux_amd64.zip
+Resolving releases.hashicorp.com (releases.hashicorp.com)... 2a04:4e42:25::439, 151.101.157.183
+Connecting to releases.hashicorp.com (releases.hashicorp.com)|2a04:4e42:25::439|:443... failed: Connection timed out.
+Connecting to releases.hashicorp.com (releases.hashicorp.com)|151.101.157.183|:443... failed: Network is unreachable.
